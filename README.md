@@ -4,8 +4,8 @@ This repository implements the algorithm for discovering repeated patterns in sy
 # Requirements
 - numpy
 - pretty_midi
-- [Beethoven Piano Sonata Motif Dataset] (https://github.com/Wiilly07/Beethoven_motif)
-- [Baseline algorithms] (https://github.com/wsgan001/repeated_pattern_discovery)
+- [Beethoven Piano Sonata Motif Dataset](https://github.com/Wiilly07/Beethoven_motif)
+- [Baseline algorithms](https://github.com/wsgan001/repeated_pattern_discovery)
 
 # Usage
 1. Clone all required datasets and repositories, and put all data in the same file.
